@@ -1,5 +1,6 @@
 # streamlit-cartoon
 
+---|---|---
 Title | Preview | Source
 ---|---|---
 Workflow - Code to app | <img src="img/streamlit-workflow-code-to-app.png" width="200" /> | -
