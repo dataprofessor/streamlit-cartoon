@@ -2,6 +2,7 @@
 
 Title | Preview | Source
 ---|---|---
+`Diagram` - App prototype | <img src="img/streamlit-diagram-app-prototype.png" width="200" /> | [Read blog](https://blog.streamlit.io/hackathon-101-5-simple-tips-for-beginners/) ∙ [Demo app](https://chanin.streamlit.app/)
 `Workflow` - Code to app | <img src="img/streamlit-workflow-code-to-app.png" width="200" /> | -
 `Workflow` - Idea to app (v.1) | <img src="img/streamlit-workflow-app-dev-v1.png" width="300" /> | -
 `Workflow` - Idea to app (v.2) | <img src="img/streamlit-workflow-app-dev-v2.png" width="300" /> | -
