@@ -1,4 +1,5 @@
 # streamlit-cartoon
+> A collection of hand-drawn illustrations about Streamlit.
 
 Title | Preview | Source
 ---|---|---
