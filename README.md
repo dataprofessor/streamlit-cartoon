@@ -9,5 +9,6 @@ Title | Preview | Source
 `Workflow` - Idea to app (v.1) | <img src="img/streamlit-workflow-app-dev-v1.png" width="300" /> | -
 `Workflow` - Idea to app (v.2) | <img src="img/streamlit-workflow-app-dev-v2.png" width="300" /> | -
 `Workflow` - Community cloud | <img src="img/streamlit-workflow-community-cloud.png" width="300" /> | [Read blog](https://blog.streamlit.io/host-your-streamlit-app-for-free/)
+`Workflow` - Code to app (local) | <img src="img/streamlit-code-to-app-local.png" width="300" /> | -
 `Use case` - Cheminformatics | <img src="img/streamlit-usecase-cheminformatics.png" width="300" /> | [Read paper](https://pubmed.ncbi.nlm.nih.gov/36814851/) ∙ [Demo app](https://parp1pred.streamlit.app/)
 `logo` - Streamlit 101 | <img src="img/Streamlit101.png" width="300" /> | -
